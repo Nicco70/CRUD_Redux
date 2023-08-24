@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "310",
+      "id": 3
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "220",
+      "id": 5
+    },
+    {
+      "nombre": "Salame",
+      "precio": 125,
+      "id": 6
+    },
+    {
+      "nombre": "Semilla de Girasol",
+      "precio": 95,
+      "id": 7
+    },
+    {
+      "nombre": "Jamon y Queso",
+      "precio": 399,
+      "id": 1692865690667
+    }
+  ]
+}
