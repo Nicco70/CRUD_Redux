@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Crear API con JSON Server y Ejecutar comando: json-server {nombre-db} --port 4000 para correr la API en puerto 4000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
